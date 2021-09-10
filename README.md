@@ -1,2 +1,2 @@
 # Proyecto_Integrador
-Primera etapa y segunda etapa del proyecto integrador respectivamente
+Primera etapa y segunda etapa respectivamente del proyecto integrador
