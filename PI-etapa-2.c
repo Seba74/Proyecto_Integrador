@@ -152,7 +152,7 @@
 	}
 
 
-	// Averiguar si hay espacio para a�adir m�s preguntas  
+	// Averiguar si hay espacio para agregar mas preguntas  
     void espaciosDisponibles(td_preguntas p_cola){
         if(colaLlena(p_cola)){
             printf("\n\tNo hay espacio para preguntas disponibles...\n");
