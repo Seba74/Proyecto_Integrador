@@ -71,12 +71,12 @@
 
 	void ingresarDatos(){
 		int i;
-        printf("\n\n\tIngrese las preguntas correspondientes a la trivia\n\n");
-        for(i=0;i<MAX;i++){
-            printf("pregunta %d: ", i+1);
-            fflush(stdin);
-            scanf("%[^\n]s", cola_preguntas.pregunta[i]);
-        }
+		printf("\n\n\tIngrese las preguntas correspondientes a la trivia\n\n");
+		for(i=0;i<MAX;i++){
+		    printf("pregunta %d: ", i+1);
+		    fflush(stdin);
+		    scanf("%[^\n]s", cola_preguntas.pregunta[i]);
+        	}
 	}
 	
 // Cerrar Archivo 
